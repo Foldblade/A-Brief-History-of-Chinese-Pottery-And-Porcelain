@@ -55,9 +55,9 @@ PPT 采用 Microsoft 365 版本进行制作。我仅推荐您使用 Office 2016 
 
 本项目内容从设计之初便不期望也不允许进行商业用途，仅供文博爱好者交流学习使用。
 
-应该说，讲稿的内容基本取自《中国陶瓷史》一书——我不太确定是否会带来版权争议，如果产生版权争议，请向该 repo 发送 issue，我将进行处理。
+应该说，讲稿的内容基本取自《中国陶瓷史》一书——我不太确定是否会带来版权争议，如果产生版权争议，请[向该 repo 发送 issue](https://github.com/Foldblade/A-Brief-History-of-Chinese-Pottery-And-Porcelain/issues/new/choose)，我将进行处理。
 
-PPT 内的图片我尽可能都注明了作者和来源，当然也有部分图片截图自《中国陶瓷史》。同样地，如果产生版权争议，请向该 repo 发送 issue，我将进行处理。
+PPT 内的图片我尽可能都注明了作者和来源，当然也有部分图片截图自《中国陶瓷史》。同样地，如果产生版权争议，请[向该 repo 发送 issue](https://github.com/Foldblade/A-Brief-History-of-Chinese-Pottery-And-Porcelain/issues/new/choose)，我将进行处理。
 
 对于除去图片的 PPT内容，我选择采用[知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议 （CC BY-NC-SA 4.0）](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
 
