@@ -1,0 +1,5 @@
+*.pptx
+LICENSE.txt
+*.zip
+
+!/LICENSE.txt
